@@ -1,0 +1,77 @@
+*{margin:0;padding:0}
+.main {
+    width: 650px;
+    height: 350px;
+    border: 2px solid black;
+    margin: auto;
+}
+.header{width:100%;padding-bottom: 35px;background: #3B5998;}
+#wow{
+    width: 100px;
+    color: white;
+    font-size: 20px;
+    font-family: arial;
+    float: left;
+}
+    /* background: #69A74E; */
+}
+
+h3#ja {}
+
+h3#ja {
+    float: right;
+    background: #69A74E;
+    padding: 4px;
+    margin: 1px;
+    border: 1px solid blue;
+}
+h3#eamil {}
+
+h3#eamil {
+    color: #ddd;
+    font-size: 21px;
+    margin-left: 3px;
+    margin-top: 10px;
+}
+
+.login_box {
+    margin-left: 8px;
+}
+
+input[type="email"] {
+    width: 600px;
+    height: 38px;
+    font-size: 21px;
+}
+
+h3#email_hi {
+    color: #ddd;
+    font-size:21px
+}
+input[type="password"] {
+    width: 600px;
+    height: 38px;font-size:21px
+}
+
+input[type="submit"] {
+    width: 604px;
+    height: 38px;
+}
+input[type="submit"] {
+    width: 604px;
+    height: 38px;
+    background: blue;
+    border: none;
+}
+  hr.why{
+    /* color: red; */
+    border: 1px solid #ddd;
+    width: 250px;
+    margin-left: 20px;
+    margin-top: 10px;
+} 
+ hr.what {
+    width: 250px;
+    float: right;
+    margin-right: 50px;
+    border: 1px solid #ddd;}
